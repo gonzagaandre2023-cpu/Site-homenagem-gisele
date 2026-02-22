@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Gisele Fernandes Carvalho — Homenagem</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #f2f2f2;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    header {
+      background-color: #d16ba5;
+      color: white;
+      padding: 50px 20px;
+      text-align: center;
+    }
+
+    section {
+      max-width: 900px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+
+    h2 {
+      border-bottom: 2px solid #4a2c2a;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+
+    .box {
+      background: white;
+      padding: 25px;
+      border-radius: 8px;
+      margin-bottom: 30px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    .galeria {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 15px;
+    }
+
+    .galeria img {
+      width: 100%;
+      border-radius: 8px;
+    }
+
+    footer {
+      background-color: #d16ba5;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Gisele Fernandes Carvalho</h1>
+  <p>Uma homenagem à sua história, essência e legado</p>
+</header>
+
+<section>
+  <h2>Identificação Básica</h2>
+  <div class="box">
+    <p><strong>Nome completo:</strong> Gisele Fernandes Carvalho</p>
+    <p><strong>Apelidos:</strong> Nega, Gigi, Nenê, Gi</p>
+    <p><strong>Data de nascimento:</strong> 21/02/2009</p>
+    <p><strong>Cidade de origem:</strong> Vila da Paz</p>
+    <p><strong>Cidade onde viveu:</strong> Maracaçumé</p>
+  </div>
+</section>
+
+<section>
+  <h2>Quem é Gisele?</h2>
+  <div class="box">
+    <p>
+  Gisele é uma pessoa doce, gentil, paciente e amorosa com todos ao seu redor.
+  Possui uma personalidade sensível e melancólica, carregando consigo um
+  coração sentimental e uma forma única de enxergar o mundo.
+    </p>
+
+    <p>
+  Ao mesmo tempo, Gisele é alguém que não tem medo de dizer o que precisa ser
+  dito quando necessário. Ela sabe se posicionar com maturidade, sempre buscando
+  a verdade, mas sem ferir ou constranger quem está à sua volta.
+    </p>
+
+    <p>
+  Sua bondade e gentileza fazem com que ela pense muito antes de falar, tentando
+  ao máximo não magoar ninguém. Esse cuidado com os sentimentos dos outros revela
+  uma pessoa empática, consciente e cheia do Espírito Santo.
+    </p>
+    
+    <p>
+    Gisele também se destaca por ser uma desbravadora focada, determinada e que nunca desiste diante das dificuldades. Quando assume um compromisso, ela segue até o fim com responsabilidade e dedicação.
+    </p>
+
+    <p>
+    Sua vida reflete a missão que o Senhor nos confiou: levar o evangelho, espalhar amor, esperança e fé por meio de atitudes e palavras. Gisele procura viver esse chamado com sinceridade, sempre buscando fazer o bem e ser luz na vida das pessoas.
+    </p>
+
+    <p>
+    Extremamente dedicada, ela cumpre suas responsabilidades com zelo, demonstrando que servir a Deus também é servir ao próximo. Por tudo isso, Gisele é uma garota incrível, cuja fé, esforço e caráter inspiram quem tem o privilégio de caminhar ao seu lado.
+    </p>
+  </div>
+</section>
+
+<section>
+  <h2>História e Trajetória</h2>
+  <div class="box">
+    <p><strong>Infância:</strong> Brincava muito de boneca, corria bastante, tomava sol, não ficava quieta por um minuto, ganhava presentes e comemorava aniversários.</p>
+
+    <p><strong>Juventude:</strong> Marcada pelos estudos e por momentos importantes como o aniversário de 15 anos.</p>
+
+    <p><strong>Desafios:</strong> Doença, falsas amizades e depressão.</p>
+
+    <p><strong>Conquistas pessoais:</strong> Ter conquistado seu próprio computador e o glorioso lenço dos desbravadores.</p>
+
+    <p><strong>Fato marcante:</strong> O ensaio fotográfico do seu aniversário de 16 anos.</p>
+  </div>
+</section>
+
+<section>
+  <h2>Formação e Interesses</h2>
+  <div class="box">
+    <ul>
+      <li><strong>Formação:</strong> Concluindo o 3º ano</li>
+      <li><strong>Área de interesse:</strong> Nutrição e clínica</li>
+      <li><strong>Habilidades:</strong> Leitura e escrita</li>
+      <li><strong>Talentos:</strong> Desenho</li>
+      <li><strong>Interesses pessoais:</strong> Leitura e tecnologia</li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <h2>Contribuições e Legado</h2>
+  <div class="box">
+    <p>
+      Gisele deixa como legado o seu sorriso gracioso, sua gentileza e maturidade.
+      Impacta as pessoas pelo seu jeito único de ser, pela forma xomo as trata todos com carinho e respeito.
+    </p>
+    <p>
+      Pequenos gestos, como passar o Natal e a virada de ano com a família, marcaram profundamente quem conviveu com ela.
+    </p>
+  </div>
+</section>
+
+<section>
+  <h2>Mensagens e Lembranças</h2>
+  <div class="box">
+    <p><strong>Amigos:</strong> “Muito amiga e amorosa.”</p>
+    <p><strong>Família:</strong> “Inteligente, brilhante e respeitosa.”</p>
+    <p><strong>Gratidão:</strong> Grata por cada momento vivido, por sua saúde e pela família.</p>
+    <p><strong>Citações:</strong> Ama poemas e possui uma alma melancólica.</p>
+  </div>
+</section>
+
+<section>
+  <h2>Curiosidades</h2>
+  <div class="box">
+    <ul>
+      <li><strong>Hobbies:</strong> Ler e desenhar</li>
+      <li><strong>Comida preferida:</strong> Açaí</li>
+      <li><strong>Estilo musical:</strong> Inglês, mexicano e louvor</li>
+      <li><strong>Frase marcante:</strong> “Sou muito bonita.”</li>
+      <li><strong>Manias:</strong> Muito vaidosa, sempre em frente ao espelho</li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <h2>Galeria</h2>
+  <div class="galeria">
+    <img src="MG-1.jpg" alt="Imagem 1">
+    <img src="MG-2.jpg" alt="Imagem 2">
+    <img src="MG-3.jpg" alt="Imagem 3">
+    <img src="MG-4.jpg" alt="Imagem 4">
+  </div>
+</section>
+
+<footer>
+  <p>Site criado como forma de homenagem ❤️</p>
+</footer>
+
+</body>
+</html>
